@@ -4,6 +4,8 @@ Remove password from a PDF file. Original password must be known.
 # Requirements
  - argparse
  - pikepdf
+
+
 `pip install -r requirements.txt`
 # Usage
 
